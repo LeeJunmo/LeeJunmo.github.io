@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-23'
 papers:
   H2NTpgMAAAAJ:d1gkVwhDpl0C:
     citations: 4
     title: 'Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness'
     year: '2025'
   H2NTpgMAAAAJ:u-x6o8ySG0sC:
-    citations: 8
+    citations: 10
     title: Class label-aware graph anomaly detection
     year: '2023'
